@@ -56,3 +56,7 @@ empurrar arq do Repositorio Local p/ o Remoto
 [QuickStart GitHub Docs](https://docs.github.com/pt/get-started/quickstart)
 
 [Glossário Github](https://docs.github.com/pt/get-started/quickstart/github-glossary)
+
+# Markdown
+
+https://gist.github.com/rxaviers/7360908

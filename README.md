@@ -6,4 +6,4 @@ Para o desafio de projeto Git/Github da Dio compartilho minhas anotações e res
 :computer: projetos ageis - scrum
 
 # agradecimentos :D
-gratidão a Dio e aos profs Venilton Falvo Jr @falvojr e Otávio Reis @perkles 
+agradeço a Dio e aos profs  , Venilton Falvo Jr @falvojr, Otávio Reis @perkles, Bruno Prado,
